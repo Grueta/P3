@@ -12,7 +12,7 @@
  
 หรือจะรันคำสั่งชุดเดียว
  
-`termux-setup-storage && cd /sdcard && apt update && apt upgrade -y && apt install python -y && apt install git -y && git clone https://github.com/Grueta/P3.git && cd pi && python -m pip install -r pip.txt && python3 pi.py`
+`termux-setup-storage && cd /sdcard && apt update && apt upgrade -y && apt install python -y && apt install git -y && git clone https://github.com/Grueta/P3.git && cd /sdcard/pi && python -m pip install -r pip.txt && python3 pi.py`
  
  
 ครั้งต่อไปเข้าแอพ Termux ใช้คำสั่ง 
